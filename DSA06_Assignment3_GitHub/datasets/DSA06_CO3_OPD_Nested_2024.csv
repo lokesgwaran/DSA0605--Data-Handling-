@@ -1,0 +1,49 @@
+zone,diagnosis,age_group,opd_visits
+North,URTI,0–14,5008
+North,URTI,15–44,5237
+North,URTI,45–64,2658
+North,URTI,65+,1734
+North,asthma/COPD,0–14,1231
+North,asthma/COPD,15–44,1836
+North,asthma/COPD,45–64,1309
+North,asthma/COPD,65+,972
+North,pneumonia,0–14,703
+North,pneumonia,15–44,855
+North,pneumonia,45–64,788
+North,pneumonia,65+,1032
+North,allergic rhinitis,0–14,1582
+North,allergic rhinitis,15–44,1880
+North,allergic rhinitis,45–64,890
+North,allergic rhinitis,65+,433
+Central,URTI,0–14,2277
+Central,URTI,15–44,2460
+Central,URTI,45–64,1220
+Central,URTI,65+,842
+Central,asthma/COPD,0–14,529
+Central,asthma/COPD,15–44,865
+Central,asthma/COPD,45–64,635
+Central,asthma/COPD,65+,455
+Central,pneumonia,0–14,358
+Central,pneumonia,15–44,396
+Central,pneumonia,45–64,388
+Central,pneumonia,65+,427
+Central,allergic rhinitis,0–14,701
+Central,allergic rhinitis,15–44,883
+Central,allergic rhinitis,45–64,437
+Central,allergic rhinitis,65+,202
+South,URTI,0–14,6672
+South,URTI,15–44,7075
+South,URTI,45–64,3617
+South,URTI,65+,2349
+South,asthma/COPD,0–14,1613
+South,asthma/COPD,15–44,2493
+South,asthma/COPD,45–64,1809
+South,asthma/COPD,65+,1288
+South,pneumonia,0–14,1030
+South,pneumonia,15–44,1122
+South,pneumonia,45–64,1104
+South,pneumonia,65+,1293
+South,allergic rhinitis,0–14,2041
+South,allergic rhinitis,15–44,2577
+South,allergic rhinitis,45–64,1211
+South,allergic rhinitis,65+,616
