@@ -1,0 +1,47 @@
+ANDHRA PRADESH – MONSOON DATA ANALYSIS
+FINAL PROJECT REPORT
+
+STAGE 1: RAINFALL ANALYSIS
+The highest yearly average rainfall was recorded in 2025 (25.95 mm).
+The lowest was recorded in 2022 (14.60 mm).
+Five rainfall graphs were created.
+
+STAGE 2: RESERVOIR STORAGE ANALYSIS
+The highest average storage was recorded in 2024 (624.87 MCM).
+The highest median storage was recorded in 2022 (15.68 MCM).
+Three reservoir graphs were created.
+
+STAGE 3: WIND SPEED ANALYSIS
+The overall average wind speed was 10.30 km/hr.
+The maximum recorded wind speed was 38 km/hr.
+The highest yearly average was 16.71 km/hr in 2008.
+Four wind graphs were created.
+
+STAGE 4: EVACUATION AND RELIEF CAMP ANALYSIS
+A simulated dataset was created for 10 districts.
+SPSR Nellore had the highest simulated evacuation count: 6000.
+Four graphs were created.
+
+STAGE 5: COMBINED DATA ANALYSIS
+Rainfall and reservoir data were compared for 2021-2024.
+Pearson correlation: -0.7324.
+The relationship is exploratory and does not establish causation.
+Two comparison graphs were created.
+
+STAGE 6: FINAL DASHBOARD
+A combined dashboard containing four visualizations was created.
+
+DATA LIMITATIONS
+Rainfall data covers 2021-2025.
+Reservoir comparisons cover 2021-2024 because 2025 has only one record.
+Wind data covers 2004, 2005, 2007 and 2008 for Kurnool only.
+Evacuation and relief camp figures are simulated, not official records.
+Station coverage varies between years.
+The results should not be interpreted as a complete statewide
+assessment of Northeast Monsoon conditions during 2021-2025.
+
+FINAL CONCLUSION
+The project demonstrates how R can be used to analyse rainfall,
+reservoir storage, wind speed and simulated disaster-management data.
+Visualizations help identify patterns and communicate findings.
+Further analysis requires consistent, verified district-level data.
